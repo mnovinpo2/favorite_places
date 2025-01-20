@@ -49,7 +49,7 @@ class _ImageInputState extends State<ImageInput> {
         ),
       );
     }
-    ;
+
     return Container(
       decoration: BoxDecoration(
         border: Border.all(
